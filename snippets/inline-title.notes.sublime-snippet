@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+-------------${1:Title}-------------
+
+$0
+]]></content>
+<description>Inline Title for Notes</description>
+<tabTrigger>__</tabTrigger>
+<scope>source.notes</scope>
+</snippet>
